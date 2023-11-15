@@ -1,4 +1,4 @@
-# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+![image](https://github.com/d-kavinraja/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119875375/1a72ea39-1d4a-4618-9b27-f3dffc51ae3d)# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 3.10.2023
 ## AIM: 
@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/22003264/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119389139/1178aaa7-007e-4bed-bc5a-dba1bd7bab1c)
+![1](https://github.com/Yuvaraj878/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118622554/09996c8c-2cb4-49d1-9b91-fc3acd882031)
 
 ### Name: Kavinraja D
 ### Register Number: 212222240047
